@@ -8,6 +8,7 @@
 业主可以查看自己的房屋和车位信息，缴纳物业费用，并提交报修工单以及投诉信息。<br>
 前端使用Vue框架，后端使用SpringBoot框架，数据库使用的是Mysql。<br>
 本系统功能完善，涉及的技术比较广，难度适中，都是市面上主流的技术，非常适合作为设计项目或开发学习。<br>
+视频介绍：<a href="https://www.bilibili.com/video/BV1bu4y1r75o/?spm_id_from=333.999.0.0&vd_source=e6eb98771fefe4bc68298183ff572b90" target="_blank">点击查看B站视频介绍</a>
 
 ## 功能介绍
 
